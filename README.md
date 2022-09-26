@@ -1,5 +1,8 @@
 # realtime-chat-app
 
+I Developed and Designed a real time application for multiple users to do end to-end encrypted chat .
+It makes it easy to communicate with people anywhere in the world by sending and receiving the messages in real time .
+
 # Sign-Up Page
 ![](screenshot/Screenshot%20(25).png)
 
